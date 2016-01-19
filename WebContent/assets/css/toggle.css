@@ -1,0 +1,1217 @@
+
+.switch-field1 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field1 input {
+  display: none;
+}
+
+.switch-field1 label {
+  float: left;
+}
+
+.switch-field1 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field1 label:hover {
+    cursor: pointer;
+}
+
+.switch-field1 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field1 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field1 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+
+.switch-field2 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field2 input {
+  display: none;
+}
+
+.switch-field2 label {
+  float: left;
+}
+
+.switch-field2 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field2 label:hover {
+    cursor: pointer;
+}
+
+.switch-field2 input:checked + label {
+  background: -webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field2 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field2 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+.switch-field3 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field3 input {
+  display: none;
+}
+
+.switch-field3 label {
+  float: left;
+}
+
+.switch-field3 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field3 label:hover {
+    cursor: pointer;
+}
+
+.switch-field3 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field3 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field3 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+.switch-field4 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field4 input {
+  display: none;
+}
+
+.switch-field4 label {
+  float: left;
+}
+
+.switch-field4 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field4 label:hover {
+    cursor: pointer;
+}
+
+.switch-field4 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field4 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field4 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+.switch-field5 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field5 input {
+  display: none;
+}
+
+.switch-field5 label {
+  float: left;
+}
+
+.switch-field5 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field5 label:hover {
+    cursor: pointer;
+}
+
+.switch-field5 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field5 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field5 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+.switch-field6 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field6 input {
+  display: none;
+}
+
+.switch-field6 label {
+  float: left;
+}
+
+.switch-field6 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field6 label:hover {
+    cursor: pointer;
+}
+
+.switch-field6 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field6 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field6 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+.switch-field7 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field7 input {
+  display: none;
+}
+
+.switch-field7 label {
+  float: left;
+}
+
+.switch-field7 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field7 label:hover {
+    cursor: pointer;
+}
+
+.switch-field7 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field7 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field7 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+.switch-field8 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field8 input {
+  display: none;
+}
+
+.switch-field8 label {
+  float: left;
+}
+
+.switch-field8 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field8 label:hover {
+    cursor: pointer;
+}
+
+.switch-field8 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field8 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field8 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+.switch-field9 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field9 input {
+  display: none;
+}
+
+.switch-field9 label {
+  float: left;
+}
+
+.switch-field9 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field9 label:hover {
+    cursor: pointer;
+}
+
+.switch-field9 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field9 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field9 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+.switch-field10 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field10 input {
+  display: none;
+}
+
+.switch-field10 label {
+  float: left;
+}
+
+.switch-field10 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field10 label:hover {
+    cursor: pointer;
+}
+
+.switch-field10 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field10 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field10 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+
+.switch-field11 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field11 input {
+  display: none;
+}
+
+.switch-field11 label {
+  float: left;
+}
+
+.switch-field11 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field11 label:hover {
+    cursor: pointer;
+}
+
+.switch-field11 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field11 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field11 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+.switch-field12 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field12 input {
+  display: none;
+}
+
+.switch-field12 label {
+  float: left;
+}
+
+.switch-field12 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field12 label:hover {
+    cursor: pointer;
+}
+
+.switch-field12 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field12 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field12 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+.switch-field13 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field13 input {
+  display: none;
+}
+
+.switch-field13 label {
+  float: left;
+}
+
+.switch-field13 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field13 label:hover {
+    cursor: pointer;
+}
+
+.switch-field13 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field13 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field13 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+.switch-field14 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field14 input {
+  display: none;
+}
+
+.switch-field14 label {
+  float: left;
+}
+
+.switch-field14 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field14 label:hover {
+    cursor: pointer;
+}
+
+.switch-field14 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field14 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field14 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+
+.switch-field15 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field15 input {
+  display: none;
+}
+
+.switch-field15 label {
+  float: left;
+}
+
+.switch-field15 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field15 label:hover {
+    cursor: pointer;
+}
+
+.switch-field15 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field15 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field15 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+
+.switch-field16 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field16 input {
+  display: none;
+}
+
+.switch-field16 label {
+  float: left;
+}
+
+.switch-field16 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field16 label:hover {
+    cursor: pointer;
+}
+
+.switch-field16 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field16 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field16 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+.switch-field17 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field17 input {
+  display: none;
+}
+
+.switch-field17 label {
+  float: left;
+}
+
+.switch-field17 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field17 label:hover {
+    cursor: pointer;
+}
+
+.switch-field17 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field17 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field17 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+.switch-field18 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field18 input {
+  display: none;
+}
+
+.switch-field18 label {
+  float: left;
+}
+
+.switch-field18 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field18 label:hover {
+    cursor: pointer;
+}
+
+.switch-field18 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field18 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field18 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+.switch-field19 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field19 input {
+  display: none;
+}
+
+.switch-field19 label {
+  float: left;
+}
+
+.switch-field19 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field19 label:hover {
+    cursor: pointer;
+}
+
+.switch-field19 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field19 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field19 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+.switch-field20 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field20 input {
+  display: none;
+}
+
+.switch-field20 label {
+  float: left;
+}
+
+.switch-field20 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field20 label:hover {
+    cursor: pointer;
+}
+
+.switch-field20 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field20 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field20 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+
+
+
+
+
+
+.switch-field21 {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.switch-title {
+  margin-bottom: 5px;
+}
+
+.switch-field21 input {
+  display: none;
+}
+
+.switch-field21 label {
+  float: left;
+}
+
+.switch-field21 label {
+  display: inline-block;
+  width: 100px;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+}
+
+.switch-field21 label:hover {
+    cursor: pointer;
+}
+
+.switch-field21 input:checked + label {
+  background:-webkit-linear-gradient( rgb(0,0,0), rgb(11,181,180));
+  color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.switch-field21 label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field21 label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
